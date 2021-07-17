@@ -31,7 +31,7 @@ Spawn another terminal in order to use it using curl.
 ### Example
 Convert from one currency (`NGN`) to another (`GHS`)
 ```sh
-$ curl -X GET http://localhost:5000/convert?from=ngn&to=ghs&amount=50
+$ curl -X GET "http://localhost:5000/convert?from=ngn&to=ghs&amount=50"
 ```
 The response will look something like this:
 ```
