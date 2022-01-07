@@ -1,5 +1,6 @@
 # Cuco: A Currency Converter
 
+> How do I write APIs? Let me try cuco.
 
 ## Introduction
 `Cuco` is a web API that offers currency conversion between three
